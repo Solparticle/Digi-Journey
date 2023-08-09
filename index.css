@@ -61,7 +61,10 @@ header {
 .theme {
     width: 100%;
     height: 650px;
-    background-image: url('assets/20230807_223304_0000.png');
+    background-image: url('assets/20230809_142352_0000.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -85,7 +88,10 @@ header {
     .theme {
         width: 34.7%;
         height: 580px;
-        background-image: url('assets/png_20230804_223953_0000.png');
+        background-image: url('assets/20230809_142352_0000.png');
+        display: flex;
+    flex-direction: column;
+    align-items: center;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
